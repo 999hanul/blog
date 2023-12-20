@@ -1,8 +1,11 @@
 
+import React from 'react';
 import './App.css';  
 
 function App() {
   let posts = '사당 고기 맛집'
+  let [a,b]=React.useState()
+
   return (
     <div className='App'>
       <div className='black-nav'>
