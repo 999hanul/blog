@@ -15,6 +15,7 @@ function App() {
         <h3>{posts}</h3>
         <p>2월 17일 발행</p>
         <div>?????</div>
+    <div>하하하</div>
         <hr />
       </div>
     </div>
