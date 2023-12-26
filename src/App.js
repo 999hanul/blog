@@ -14,6 +14,7 @@ function App() {
       <div className='list'>
         <h3>{posts}</h3>
         <p>2월 17일 발행</p>
+        <div>zzzz</div>
         <hr />
       </div>
     </div>
